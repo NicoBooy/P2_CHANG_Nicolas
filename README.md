@@ -4,10 +4,7 @@
 
 The instruction structure is like this :
 
-'''--obj_x 1 --obj_y 2 --maximize `
-                --constraint '-1' '1' '2' `
-                --constraint '1' '2' '8' `
-                --constraint '1' '0'  '6''''
+<pre markdown="1"> ``` --obj_x 1 --obj_y 2 --maximize ` --constraint '-1' '1' '2' ` --constraint '1' '2' '8' ` --constraint '1' '0' '6' ``` </pre>
 
 
 Objective function : z = x + 2y
