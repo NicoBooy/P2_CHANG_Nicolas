@@ -12,7 +12,7 @@ For example :
 
 is the traduction of : 
 ```
-Objective function : z = x + 2y
+Maximizing the objective function : z = x + 2y
 subject to :
 - -x + y <= 2
 - x + 2y <= 8
